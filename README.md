@@ -4,12 +4,6 @@
 
 **Cloud DevOps Professional · Fullstack Web Developer**
 
-<img src="https://www.ericpaatey.com/images/intro-bg.jpg" alt="Eric Paatey" width="220" />
-
-
-
-</div>
-
 ---
 
 ## About
