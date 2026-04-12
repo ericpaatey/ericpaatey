@@ -23,10 +23,15 @@ These experiences equip me with strong problem-solving abilities, a deep underst
 Currently, I am focused on:
 
 -AWS Cloud Architecture (EC2, S3, IAM, VPC, CloudWatch, RDS, Lambda, and other AWS technologies)
+
 -DevOps & Automation (Jenkins, Bash, Python, CI/CD pipelines, Prometheus, Grafana)
+
 -Infrastructure as Code (Terraform, CloudFormation, Ansible)
+
 -Containers & Deployment (Docker, Kubernetes, cloud deployments)
+
 -Web Applications development (HTML, CSS, Javascript, React.js, Node.js, Python, PHP, MySQL, WordPress, Drupal)
+
 
 I enjoy designing solutions that automate workflows, enhance system performance, and elevate the developer experience. Beyond engineering, I am passionate about continuous learning, cloud innovation, and building reliable, resilient systems that truly make an impact. When I am not writing code or optimizing infrastructure, you will find me engaging in community tech events, sharing knowledge with fellow learners, volunteering on digital empowerment initiatives, or exploring creative ways technology can uplift people and improve everyday life.
 
