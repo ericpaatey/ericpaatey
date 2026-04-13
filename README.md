@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Eric Paatey
 
@@ -6,7 +6,9 @@
 
 ---
 
-## About
+## About Me
+
+</div>
 
 I am a Cloud DevOps professional and Fullstack Web Developer with strong expertise in AWS, Linux, CI/CD automation, containerization, infrastructure-as-code, web development; built on years of hands-on experience developing, and managing enterprise-grade software and web applications.
 
